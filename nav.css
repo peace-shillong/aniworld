@@ -1,0 +1,4 @@
+.nav ul li{ display:inline; list-style:none;padding:10px;border:#111 solid 1px;margin:2px;}	
+.nav ul li:hover{ display:inline; list-style:none;padding:10px;border:#111 solid 1px;margin:2px;background-color:red;}	
+.nav ul li a{ text-decoration:none;color:black;}	
+.nav ul li a:hover{ color:white;}
